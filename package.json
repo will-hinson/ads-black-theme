@@ -11,6 +11,11 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "theme",
+        "color",
+        "dark"
+    ],
     "contributes": {
         "themes": [
             {
@@ -24,5 +29,11 @@
                 "path": "./themes/Black-italic-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/will-hinson/ads-black-theme"
+    },
+    "icon": "assets/icon.png",
+    "homepage": "https://github.com/will-hinson/ads-black-theme"
 }

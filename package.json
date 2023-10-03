@@ -1,0 +1,28 @@
+{
+    "name": "black",
+    "displayName": "Black",
+    "description": "A port of the VSCode Black color theme by Jaakkko for use with Azure Data Studio.",
+    "publisher": "Will Hinson",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.39.0",
+        "azdata": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Black-color-theme.json"
+            },
+            {
+                "label": "Black Italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Black-italic-color-theme.json"
+            }
+        ]
+    }
+}

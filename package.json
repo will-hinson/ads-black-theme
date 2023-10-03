@@ -5,7 +5,7 @@
     "publisher": "will-hinson",
     "version": "0.0.1",
     "engines": {
-        "vscode": "^1.39.0",
+        "vscode": "*",
         "azdata": "*"
     },
     "categories": [

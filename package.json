@@ -3,7 +3,7 @@
     "displayName": "Black",
     "description": "A port of the VSCode Black color theme by Jaakkko for use with Azure Data Studio.",
     "publisher": "will-hinson",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "*",
         "azdata": "*"
